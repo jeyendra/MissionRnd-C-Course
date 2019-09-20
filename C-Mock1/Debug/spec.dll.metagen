@@ -1,0 +1,63 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.BiryaniCompetitionSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Test_BiryaniCompetition01(): PrivateScope, Public, HideBySig
+    Test_BiryaniCompetition02(): PrivateScope, Public, HideBySig
+    Test_BiryaniCompetition03(): PrivateScope, Public, HideBySig
+Class spec.MeetingPointSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Test_MeetingPoint01(): PrivateScope, Public, HideBySig
+    Test_MeetingPoint02(): PrivateScope, Public, HideBySig
+    Test_MeetingPoint03(): PrivateScope, Public, HideBySig
+Class spec.ParentsOfLeafNodesSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Test_ParentsOfLeafNodes01(): PrivateScope, Public, HideBySig
+    Test_ParentsOfLeafNodes02(): PrivateScope, Public, HideBySig
+    Test_ParentsOfLeafNodes03(): PrivateScope, Public, HideBySig
+Class spec.SnakeSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Test_Snake01(): PrivateScope, Public, HideBySig
+    Test_Snake02(): PrivateScope, Public, HideBySig
+    Test_Snake03(): PrivateScope, Public, HideBySig
+Class spec.SumOfDigitsSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Test_SumOfDigits01(): PrivateScope, Public, HideBySig
+    Test_SumOfDigits02(): PrivateScope, Public, HideBySig
+    Test_SumOfDigits03(): PrivateScope, Public, HideBySig

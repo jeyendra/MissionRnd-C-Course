@@ -1,0 +1,66 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly spec, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class spec.P01FilterTranformSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Test_P01FilterTransform_Sample(): PrivateScope, Public, HideBySig
+Class spec.P02BurglarySpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Test_P02Burglary_Sample(): PrivateScope, Public, HideBySig
+Class spec.P03PackCharactersSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    areEqualBytes(Byte*, Byte*, Int32): PrivateScope, Public, HideBySig
+    Test_P03PackCharacters_Sample(): PrivateScope, Public, HideBySig
+Class spec.P04NumberSystemSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    Test_P04NumberSystem_Sample(): PrivateScope, Public, HideBySig
+Class spec.P05PositionWordSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    streql(SByte*, SByte*): PrivateScope, Public, HideBySig
+    Test_P05PositionWord_Sample(): PrivateScope, Public, HideBySig
+Class spec.P06MaxGoldSpec: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Microsoft.VisualStudio.TestTools.UnitTesting.TestContext TestContext 'get set' : 
+  Methods:
+    get_TestContext(): PrivateScope, Public, HideBySig, SpecialName
+    set_TestContext(TestContext): PrivateScope, Public, HideBySig, SpecialName
+    charToInt(SByte IsSignUnspecifiedByte): PrivateScope, Public, HideBySig
+    createNewNode(SByte IsSignUnspecifiedByte): PrivateScope, Public, HideBySig
+    constructTree(SByte*): PrivateScope, Public, HideBySig
+    Test_P06MaxGold_Sample(): PrivateScope, Public, HideBySig
